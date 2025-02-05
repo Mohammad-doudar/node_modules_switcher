@@ -1,4 +1,4 @@
-# Node Modules folder switcher
+# Node modules folder switcher
 
 the idea of this is when there is different branches that have different package.json dependencies
 
