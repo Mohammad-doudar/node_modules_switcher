@@ -30,8 +30,8 @@ when you switched to dev branch then just execute `switch_to_dev` and when you a
 
 ## Advantages:
 - Fast
-- easy to understand
-- Not poluted
+- Easy to understand
+- Not a bloatware
 
 ## Downsides:
 - this approach is saving the two node_modules folders in the project which means double the amount of disk is going to be needed
