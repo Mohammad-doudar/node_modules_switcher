@@ -1,6 +1,6 @@
 # Node modules folder switcher
 
-the idea of this is when there is different branches that have different package.json dependencies
+the idea of this is when there is different branches that have different package.json dependencies to allow you to easily switch between dependencies of those two branches
 
 ## The solution:
 ### Bash/Zsh
