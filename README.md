@@ -71,4 +71,3 @@ function switch_to_prod {
 
 ## Downsides:
 - this approach is saving the two node_modules folders in the project which means double the amount of disk is going to be needed
-- This is intended for Unix based systems, meaning it should work fine on Mac and linux, will add Power shell support in the future.
